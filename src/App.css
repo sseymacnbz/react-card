@@ -1,0 +1,12 @@
+.image.is-4by3 img{
+  height: 150px;
+}
+
+.content{
+  padding: 15px;
+}
+
+.card-content{
+  margin-top: 5px;
+  padding: 15px;
+}
